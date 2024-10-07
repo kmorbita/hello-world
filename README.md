@@ -7,4 +7,4 @@ This repository is built step by step in the tutorial.
 It now includes steps in GitHub
 
 
-Pushing to make changes.
+Pushing it to make changes.
